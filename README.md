@@ -1,9 +1,9 @@
-### Hi there, I'm Juan 👋
+### Hi there, I'm Juan Rangel 👋
 
 ## I'm an Computer Scientist Student!
 - 🔭 I’m currently studying Computer Science at Federal Technological University of Paraná!
-- 🌱 I’m currently Learning Angular, Typscript and Python
-- 📫 My e-mail: juanfrangel15@gmail.com
+- 🌱 I’m currently Learning Angular, Typscript, Java and Python
+- 📫 How to reach me: juanrangel@alunos.utfpr.edu.br
 
 ### 🏆 Github Stats:
 <p align="center">
