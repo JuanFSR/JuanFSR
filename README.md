@@ -3,6 +3,7 @@
 ## I'm an Computer Scientist Student!
 - 🔭 I’m currently studying Computer Science at Federal Technological University of Paraná!
 - 🌱 I’m currently Learning Angular, Typscript, Java and Python
+- 🔧 Currently I'm a developer at Tytotech
 - 📫 How to reach me: juanrangel@alunos.utfpr.edu.br
 
 ### 🏆 Github Stats:
