@@ -4,7 +4,7 @@
 - 🔭 I’m currently studying Computer Science at Federal Technological University of Paraná!
 - 🌱 I’m currently Learning Angular, Typscript, Java and Python
 - 🔧 Currently I'm a developer at Tytotech
-- 📫 How to reach me: juanfrangel15@gmail.com
+- 📫 How to reach me: dev.juanrangel@gmail.com
 
 ### 🏆 Github Stats:
 <p align="center">
