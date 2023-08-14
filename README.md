@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://github.com/JuanFSR">
         <img height="150em" src="https://github-readme-stats-jha-vineet69.vercel.app/api?username=JuanFSR&hide=stars&count_private=true&show_icons=true&theme=material-palenight" />
-        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFSR&count_private=true&hide=smalltalk&theme=material-palenight&layout=compact" /> 
+        <img height="150em" src="https://acedev003-readme-stats.vercel.app/api/top-langs/?username=JuanFSR&count_private=true&hide=smalltalk&theme=material-palenight&layout=compact" /> 
     </a>
 </p>
 
@@ -18,5 +18,5 @@
 
   &emsp;[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanfsr/)&emsp;
   [![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/JuanFSR)&emsp;
-  [![Gmail Badge](https://img.shields.io/badge/-dev.juanrangel-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dev.juanrangel@gmail.com)](mailto:dev.juanrangel@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-dev.juanrangel-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dev.juanrangel@gmail.com)](mailto:dev.juanrangel@gmail.com)&emsp;
   ![](https://komarev.com/ghpvc/?username=JuanFSR&color=1c1c1c&style=plastic&label=views)
