@@ -18,4 +18,5 @@
 
   &emsp;[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanfsr/)&emsp;
   [![Github](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/JuanFSR)&emsp;
+  [![Gmail Badge](https://img.shields.io/badge/-dev.juanrangel-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:dev.juanrangel@gmail.com)](mailto:dev.juanrangel@gmail.com)
   ![](https://komarev.com/ghpvc/?username=JuanFSR&color=1c1c1c&style=plastic&label=views)
