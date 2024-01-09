@@ -1,6 +1,4 @@
-## 👋 Hi there!
-
-## 💡 About me
+## 👋 Hi there! 💡 About me
 
 <img align='right' src='https://media.giphy.com/media/inECjKmGYzGms/giphy.gif' width='300'>
 
