@@ -4,9 +4,19 @@
 
 <img align='right' src='https://media.giphy.com/media/inECjKmGYzGms/giphy.gif' width='300'>
 
-I'm **Juan Rangel**, I have a degree in Computer Science from the Federal Technological University of Paraná and an avid Data Science enthusiast. Currently, I work as a Back-End developer at Tytotech, but as I said, I'm really enthusiasmatic about Data Science and plan do migrate to this field. In university I developed my thesis in Machine Learning with the title "Application of Knowledge Distillation in Transfer Learning".
+I'm **Juan Rangel**, I have a degree in Computer Science from the Federal Technological University of Paraná and an avid Data Science enthusiast. Currently, I work as a Back-End developer at Tytotech, but as I said, I'm really enthusiasmatic about Data Science and plan do migrate to this field. In university I developed my dissertation in Machine Learning with the title "Application of Knowledge Distillation in Transfer Learning".
 
 With a strong background in **Python**, **R** and **C**, I'm always eager to take on new challenges and explore new technologies. I'm continuously learning and growing my skills. I'm now diving deeper into machine learning and statistics.
+
+## Tools | Frameworks
+
+Data Preprocessing: NumPy, Pandas, OpenCV.
+
+Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch, Keras.
+
+Data Visualization: Matplotlib, Tableau, Seaborn, PowerBI, Looker, Google Data Studio.
+
+Cloud Services: AWS.
 
 ## 📫 Let's connect on social media!
 
